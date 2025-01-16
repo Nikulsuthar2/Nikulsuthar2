@@ -1,6 +1,6 @@
 <img src="./Assets/img.png" style="width:100%">
 
----
+
 <h1 align="center">Hi 👋, I'm Nikul Suthar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <p align="center"> 
@@ -65,9 +65,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikulsuthar2&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=Nikulsuthar2&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikulsuthar2&theme=radical&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
@@ -77,4 +75,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Nikulsuthar2&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikulsuthar2&theme=radical&hide_border=true" alt="nikulsuthar2" /></a> </p>
