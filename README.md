@@ -1,12 +1,8 @@
+# Hi 👋, I'm Nikul Suthar
+
 <img src="./Assets/img.png" style="width:100%;border-radius:20px">
 
-<h1 align="center">Hi 👋, I'm Nikul Suthar</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=nikulsuthar2&label=Profile%20views&color=0e75b6&style=flat" alt="nikulsuthar2" />
-<a href="https://twitter.com/intent/follow?screen_name=itsnikcode" target="_blank"><img src="https://img.shields.io/twitter/follow/itsnikcode" alt="X (formerly Twitter) Follow"></a>
-<img src="https://img.shields.io/github/followers/Nikulsuthar2" alt="GitHub followers">
-</p>
+### A Passionate Full-Stack Web Developer from India
 
 - 💻 Code. Build. Innovate. Repeat.
 - ✨ Crafting clean, scalable solutions—one line at a time.
@@ -22,6 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://nikulsuthar.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=briefcase&logoColor=white)](https://linkedin.com/in/nikulsuthar)
+<img src="https://img.shields.io/github/followers/Nikulsuthar2" alt="GitHub followers">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/nikulsuthar/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nikulsut28ew/)
@@ -29,6 +26,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/itsnikcode) 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ItsNikCode)
+<a href="https://twitter.com/intent/follow?screen_name=itsnikcode" target="_blank"><img src="https://img.shields.io/twitter/follow/itsnikcode" alt="X (formerly Twitter) Follow"></a>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Nikcode)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/itsnikcode)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/qERZXGJT8Y)
@@ -51,11 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikulsuthar2&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikulsuthar2&theme=radical&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikulsuthar2&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nikulsuthar2&label=Profile%20views&color=0e75b6&style=flat" alt="nikulsuthar2" /></p>
