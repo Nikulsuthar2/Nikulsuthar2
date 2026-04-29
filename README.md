@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://nikulsuthar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nikulsuthar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nikulsuthar2"><img src="https://img.shields.io/github/followers/Nikulsuthar2?style=flat&label=GitHub&logo=github" /></a>
   <a href="https://leetcode.com/u/nikulsuthar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/Nikulsuthar2"><img src="https://img.shields.io/github/followers/Nikulsuthar2?style=flat&label=GitHub&logo=github" /></a>
 </p>
 
 ---
@@ -49,10 +49,9 @@
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 📝 **NikMark** | Advanced Markdown system — rethinking formatting and editing from scratch | Typescript | TBD |
+| 📝 **NikMark** | Advanced Markdown system — rethinking formatting and editing from scratch | Typescript | [GitHub](https://github.com/Nikulsuthar2/Nikmark) [NPM](https://www.npmjs.com/package/nikmark) [Playground](https://nikmark.netlify.app) |
 | 📖 **Readory** | Offline-first PDF & eBook reader with progress tracking, notes & highlights | Flutter | [GitHub](https://github.com/Nikulsuthar2/Readory) |
 | 💰 **Money Tracker App** | Offline expense & ledger tracker | Flutter | [GitHub](https://github.com/Nikulsuthar2/Money-Tracker) [Releases](https://github.com/Nikulsuthar2/Money-Tracker/releases) |
-| 🔒 **Niksome** *(private)* | Social media platform — currently in planning & MVP phase | TBD | TBD |
 
 ---
 
@@ -86,14 +85,13 @@
   <img src="https://ghchart.rshah.org/Nikulsuthar2" width="100%" alt="Nikul's GitHub Contribution Chart" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikulsuthar2&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikulsuthar2&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+<div align="center" style='display:flex;align-items:center;gap:10px;width:100vw;flex-wrap:no-wrap'>
+  <img style='width:34%' src="https://github-readme-stats.vercel.app/api?username=Nikulsuthar2&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img style='width:26%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikulsuthar2&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img style='width:36.5%' src="https://github-readme-streak-stats.herokuapp.com/?user=Nikulsuthar2&theme=radical&hide_border=true" height="160" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikulsuthar2&theme=radical&hide_border=true" height="160" />
-</p>
+
 
 
 <p align="center">
